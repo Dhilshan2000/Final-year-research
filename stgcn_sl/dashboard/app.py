@@ -279,3 +279,6 @@ with tab4:
         st.subheader("Update policy from feedback")
         st.write("Run: python scripts/19_update_policy_from_feedback.py")
         st.write("Then regenerate alerts: python scripts/16_district_alerts_with_shap.py")
+
+
+#run the project: cd stgcn_sl and  cmd: streamlit run dashboard/app.py
